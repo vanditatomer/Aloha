@@ -1,0 +1,19 @@
+.uppercase {
+	text-transform: uppercase;
+}
+
+.italics {
+	font-style: italic;
+}
+
+.font-lighter {
+	font-weight: lighter;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.border-none {
+	border: none;
+}
